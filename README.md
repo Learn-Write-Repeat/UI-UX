@@ -3,7 +3,7 @@
 # UI/UX
 `Contribution in Basic UI/UX under DevIncept 30-DAYS CONTRIBUTOR PROGRAM`
 
->UI/UX is a User interface and user experience. UX design refers to the term “user experience design”, while UI stands for “user interface design”. Both elements are crucial to a product and work closely together.
+>UI/UX is *User Interface and user experience*. UX design refers to the term **User Experience Design** , while UI stands for **User Interface Design**. Both elements are crucial to a product and work closely together.
 
 ## Table of Content  
 [Module - 1](#module-1)
