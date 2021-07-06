@@ -20,38 +20,99 @@
 <a name="module-1"/>
 
 ## Module - 1
-### Pre-requisite to UI
-- UI
+### Introduction to User Experience (UX) Design
+- Definition of User Experience (UX)
+- What is Design?
+- What is Design Thinking?
+- What is UX Design?
+- Who is a User?
+- History of UX Design
+- The Scope of User Experience (UX)
 
 <a name="module-2"/>
 
 ## Module - 2
-### Introduction to UI
-- UI
+### User Interface (UI) Design 
+- User Interface Design Considerations
+
+     - Consistency
+     - Responsivenessv
+     - Familiar words-
+     - StreamingWireframe and its importance
+      
+- User Interface (UI) Design Process
+- Elements of Interface Design
 
 <a name="module-3"/>
 
 ## Module - 3
-### Installation
-- UI
+### User Experience Design Principles (UX)
+- A well-defined Hierarch , Consistency , Accessibility and Usability , Developing User Experience (UX) Design
+- Understanding User Needs
+- Carrying out Research
 
-### Getting Started With Simple UI 
-- UI
+     - Sketching
+     - Design
+     - Implementation
+     - Evaluation
+     
+- Wireframe and its importance 
 
-### UI Basics
-- TUI
+     - Examples of wireframes
+     - Importance of Wireframe 
+     - Wireframing process
+     - Wireframing Tools
+     
+- How to make your wireframe
+ 
+     1. Research
+     2. Do the Research a Reference Point
+     3. Mapped out your User flow
+     4. Draft, don't draw. Sketch, don't illustrate
+     5. Add some detail and get testing
+     6. Turn your Wireframes into Prototypes
+
 
 <a name="module-4"/>
-
 ## Module - 4
-### Tutorials
-- UI
+
+### Introduction to Design Thinking
+- Origin Design Thinking
+- What is Design Thinking?
+- The Design Thinking Process
+- What are the Principles of Design Thinking?
+- Collaboration
+- Ideation
+- Application of the Design Thinking Framework 
+- Examples of design thinking success
+
+<a name="module-5"/>
+
+## Module - 5
+### Introduction to User Experience (UX) Design Principles
+- Principles of UX Design
+- Focus on your Users
+- Focus on business
+- Digestibility
+- Familiarity
+- Data-informed Design
+- Design Consistency
+- Technology Flexibility
+
+<a name="module-6"/>
+
+## Module - 6
+### TUX Design vs. UI Design
+- UI Design
+- The main differences between UX Design and UI Design
+- Conclusion
+
+
 ### UI
 - UI
 
 <a name="module-5"/>
 
-## Module - 5
 ### UI
 - UI
 
