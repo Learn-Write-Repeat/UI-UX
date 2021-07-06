@@ -74,6 +74,7 @@
 
 
 <a name="module-4"/>
+
 ## Module - 4
 
 ### Introduction to Design Thinking
@@ -108,13 +109,6 @@
 - Conclusion
 
 
-### UI
-- UI
-
-<a name="module-5"/>
-
-### UI
-- UI
 
 
 <br>
