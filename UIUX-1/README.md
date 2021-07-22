@@ -7,3 +7,12 @@ for example, a contributor is assigned a topic from Module-1, say Definition of 
 After creating the folder, create a readme file within the folder you created in previous step and add the theory or explanation part there regarding the topic assigned. Also, contributors need to add images, code files or designs used if any inside that folder only.
 
 Contributors assigned with topics should follow the same procedure and should only push to the the correct folder i.e. UI/UX-1 and correct sub-folders as well.
+
+## Module 1
+  ## Introduction to User Experience (UX) Design
+  <ul>
+    <li>Definition of User Experience (UX)</li>
+  <li>What is Design?</li>
+    <li>What is Design Thinking?</li>
+    <li>What is UX Design?</li>
+  </ul>
