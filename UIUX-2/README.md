@@ -3,7 +3,7 @@
 Instructions
 1. First you need to upload topic folder under that you have to upload your task file
 2. Name of the file and folder should be same
-3. Name of the file and folder should be as follow: topic number(with subnumber). Topic_Name.\
+3. Name of the file and folder should be as follow: topic number(with subalphaber). Topic_Name.\
 For example:\
 "1a. Definition_of_UX"\
                  "1b. What_is_Design?"\
