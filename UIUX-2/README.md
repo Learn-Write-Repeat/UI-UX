@@ -5,7 +5,7 @@ Instructions
 2. Name of the file and folder should be same
 3. Name of the file and folder should be as follow: topic number(with subalphabet). Topic_Name.\
 For example:\
-"1a. Definition_of_UX"\
+                 "1a_Definition_of_UX"\
                  "1b_What_is_Design?"\
                  "1c_What_is_Design Thinking?\
                  "1d_What_is_UX_Design?\
