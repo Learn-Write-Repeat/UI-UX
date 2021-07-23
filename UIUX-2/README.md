@@ -12,5 +12,5 @@ For example: "1a. Definition_of_UX"\
               "1f. History_of_UX_Design\
               "1g. The_Scope_of_User_Experience(UX)\
 Here 1a is according to the order of topics in the modules\
-Same file name will be there for all the modules\
+Same file name will be there for all the modules
 
