@@ -4,7 +4,7 @@ The field of User Experience spans across a breadth of focuses, often leading to
 
 ## The Concept
 
-<img align="right" width="425" height="250" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1.a_Design/services_ux-design_interaction-design1.png" alt="User Experience Flow" /> 
+<img align="right" width="425" height="250" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1a_Definition_of_UX/services_ux-design_interaction-design1.png" alt="User Experience Flow" /> 
 
 The literal meaning of the phrase **User Experience** is very simple and can be easily derived from the word itslelf. It is basically - **what the user experiences**. 
 As simple as it may seem by the looks of it, there's actually a huge process going on in the background of these two words which involves art, style, character, persona, thought process, psychology, mathematics and much much more.
@@ -20,7 +20,7 @@ Likewise, in the scene of digital world, *UX refers to everything that affect's 
  - **General Impression** - How does the user feel while using it?
 So, in layman's terms we can say that  user experience is about what user thinks and feels rationally and emotionally while interacting with a component or product.
 
-<img align="right" width="460" height="300" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1.a_Design/1%20Fp4GIm568zHv17pgJTbxPQ.png" alt="User Experience" title="User Experience" /> 
+<img align="right" width="460" height="300" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1a_Definition_of_UX/1%20Fp4GIm568zHv17pgJTbxPQ.png" alt="User Experience" title="User Experience" /> 
 
 ## The Origin 
 
@@ -39,6 +39,6 @@ There's a video available on the youtube page of Nielsen-Norman group where Norm
  3. We should also distinguish UX from usability i.e. if the product is easy to learn, efficient to use etc.
  4. The total user experience is a very broad concept, so we have to keep our focus not only on the bigger picture but also the smaller parts of it that come together to provide the experience to the user.
 <p align="center">
-  <img width="600" height="600" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1.a_Design/cubi_ux_user_experience_model-taches-et-efforts-anneau-externe.jpg" alt="The Vastness of User Experience" title="The Vastness of User Experience" align=""/>
+  <img width="600" height="600" src="https://github.com/kaustavr19/UI-UX/blob/main/UIUX-1/1.Introduction_to_User_Experience_(UX)_Design/1a_Definition_of_UX/cubi_ux_user_experience_model-taches-et-efforts-anneau-externe.jpg" alt="The Vastness of User Experience" title="The Vastness of User Experience" align=""/>
 </p>
 
