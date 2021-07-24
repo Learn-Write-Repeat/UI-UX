@@ -8,6 +8,6 @@
 
 ![ux](images/ux.png)
 
-> As of March 2020, 62 per cent of the world's population uses the internet, according to Internet World statistics. This equates to a population of 4.8 billion people! Organizations are using this to their advantage in order to reach out to a larger audience via the internet. Today, almost every business has a presence on the internet. Because of the internet's reach, offline businesses are also looking to go online. This is why UI UX design is so important today.
+> [As of January 2021, almost 60 per cent](https://www.statista.com/statistics/617136/digital-population-worldwide/) of the world's population uses the internet, according to Internet World statistics. This equates to a population of 4.8 billion people! Organizations are using this to their advantage in order to reach out to a larger audience via the internet. Today, almost every business has a presence on the internet. Because of the internet's reach, offline businesses are also looking to go online. This is why UI UX design is so important today.
 
 > We've talked about UI UX's past and present. So, how does the future look? Some argue that everything in UI UX will be explored at some point in the future and that there will be nothing new to do. "*Do I expect the same things from a web application today that I expected from web applications 5-10 years ago?*," asks the question. No, your expectations have shifted significantly as web applications have progressed. As a result, as time passes, users' expectations will change.
