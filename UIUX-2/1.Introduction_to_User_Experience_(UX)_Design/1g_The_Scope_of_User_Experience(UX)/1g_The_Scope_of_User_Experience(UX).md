@@ -10,7 +10,7 @@
 
 ![ux](images/ux.png)
 
-- ### So, What are some of the current job aspects in the domain?  —
+- ### So, What are some of the current job aspects in the UX domain?  —
     - **Research** – It's all about getting to know the people who use your product. You'll learn about the users' backgrounds, demographics, motivations, pain points, emotions, and goals through research. Surveys, observations, and interviews could all be used in your research.
     - **Information Architecture** – It entails deciding on the organisation and structure of your product. Consider it as a skeleton for how users will interact with your product. Everything in your product should be organised in a way that the user understands and that meets their expectations.
     - **Effective Communication** – It entails exchanging emails, meetings, presentations, and design software with your coworkers. Because UX design is such a collaborative field, being able to communicate with your teammates both digitally and face-to-face is crucial. You must be a good listener, receptive to feedback, and articulate your thoughts.
