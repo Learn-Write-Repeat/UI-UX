@@ -25,11 +25,10 @@
     - **A Generalist** – A generalist is responsible for a wide range of tasks. The majority of UX design jobs are generalist positions, especially in companies with a small number of UX designers. Entry-level UX designers typically work in generalist roles, and some people choose to stay in generalist roles for the rest of their careers. Being a generalist UX designer has many advantages, including:
         - Developing your skills in a variety of UX projects.
         - Trying a variety of responsibilities and identifying a UX area in which you have a particular interest.
-        - While performing a variety of tasks, keep your job feeling fresh and new.
+        - While performing a variety of tasks, keep your job feeling fresh and new. <img align="right" src="images/t.png" width=200/>
 
     - **T-shaped** – It is a specialised designer with a wide range of skills. The stem (or vertical line) of a T represents their expertise in one area, while the top (or horizontal line) represents their related skills in a wide range of fields. T-shaped designers are excellent additions to any team because they combine the strengths of specialists and generalists.
 
-<img align="center" src="images/t.png" width=200/>
+<br><br>
 
 > We've talked about UI UX's past and present. So, how does the future look? Some argue that everything in UI UX will be explored at some point in the future and that there will be nothing new to do. "*Do I expect the same things from a web application today that I expected from web applications 5-10 years ago?*," asks the question. No, your expectations have shifted significantly as web applications have progressed. As a result, as time passes, users' expectations will change.
-![ux](images/t.png)
