@@ -4,7 +4,7 @@
 Design thinking is a non linear, iterative process that teams use to understand user, challenge assumptions, redefine problems and create innovation solutions to prototype and test. Design thinking uses creative activities to foster collaboration and solve problems in human-centered ways. It is a human-centered approach to innovation that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success. Thinking like a designer can transform the way organizations develop products, services, processes, and strategy. This approach, which is known as design thinking, brings together what is desirable from a human point of view with what is technologically feasible and economically viable. It also allows people who aren't trained as designers to use creative tools to address a vast range of challenges. Design thinking is most useful to tackle problems that are ill-defined or unknown. To think like a designer requires dreaming up wild ideas, taking time to tinker and test, and being willing to fail early and often. The designer's mindset embraces empathy, optimism, iteration, creativity, and ambiguity. And most critically, design thinking keeps people at the center of every process. Design thinking involves five phases which are as follows :
 </p>
 <p align="center">
-<img src="./DesignThinking_images/Design_Thinking.png" alt="Design Thinking" width="650">
+<img src="./DesignThinking_images/Design_Thinking.png" alt="" width="650">
 </p>
 
   - Empathize
@@ -27,7 +27,7 @@ Design thinking encompasses processes such as context analysis, problem finding 
 When designing user experience part, it is very important to develop and refine skills to understand and address rapid changes in users’ environments and behaviors. The world has become increasingly interconnected and complex. In 21<sup>st</sup> century organizations from a wide range of industries find design thinking a valuable means to solve problems for the users of their products and services. Designing teams use design thinking to tackle ill-defined/unknown problems because they can reframe these in human-centric ways and focus on what is most important for users. Of all design processes, design thinking is almost certainly the best for “thinking outside the box”. With it, teams can do better UX research, prototyping and usability testing to uncover new ways to meet users’ needs.
 </p>
 <p align="center">
-<img src="./DesignThinking_images/DesignThinking_CoreActivity.png" alt="5 stages of Design Thinking" width="350">
+<img src="./DesignThinking_images/DesignThinking_CoreActivity.png" alt="" width="350">
 </p>
 Design thinking’s value as a world-improving, driving force in business matches its status as a popular subject at leading international universities. With design thinking, teams have the freedom to generate ground-breaking solutions. Using it, we can get behind hard-to-access insights and apply a collection of hands-on methods to help find innovative answers.
 </p>
@@ -35,7 +35,7 @@ Design thinking’s value as a world-improving, driving force in business matche
 ## The Five Stages of Design Thinking
 </p>
 <p align="center">
-<img src="./DesignThinking_images/DesignThinking_Process.png" alt="5 stages of Design Thinking" width="650">
+<img src="./DesignThinking_images/DesignThinking_Process.png" alt="" width="650">
 </p>
 
 - Stage 1: **Empathize—Research Your Users' Needs**
