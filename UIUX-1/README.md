@@ -7,8 +7,8 @@ Instructions
 For example:\
                  "1a_Definition_of_UX"\
                  "1b_What_is_Design?"\
-                 "1c_What_is_Design Thinking?\
-                 "1d_What_is_UX_Design?\
+                 "1c_What_is_Design Thinking?"\
+                 "1d_What_is_UX_Design?"
                  
 Here 1a is according to the order of topics in the modules\
 Same file name should be used for all other modules
