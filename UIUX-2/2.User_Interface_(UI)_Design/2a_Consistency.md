@@ -10,11 +10,11 @@ One of the definitions of “consistency” given by the Cambridge English Dicti
     - Fewer errors occur as users are less confused.
     - The cognitive load is reduced, saving users time and effort.
 
-    > As a result, consistency links various UI elements into a system of predictable and clear interactions. In fact, we do the same thing in the physical world to make our lives easier and avoid having to focus on the same operations over and over. For example, we all keep dishes and utensils in our kitchens, so even if you're visiting someone for the first time, you won't try to find a cup and a spoon in the bathroom just because it's the most common pattern.
+    As a result, consistency links various UI elements into a system of predictable and clear interactions. In fact, we do the same thing in the physical world to make our lives easier and avoid having to focus on the same operations over and over. For example, we all keep dishes and utensils in our kitchens, so even if you're visiting someone for the first time, you won't try to find a cup and a spoon in the bathroom just because it's the most common pattern.
 
 - ### **WHAT** are the types of design consistency?
 
-    > At first glance, the entire interface appears to be the same on all screens. There are only a few subtle differences when carefully observed. As an example, consider the placement of navigational elements in the header. This is due to differences in the guidelines for both platforms. The elements that must be consistent throughout the interface are styling, placement, font preferences, and design. Moving or changing elements not only confuses your user, but it also disappoints them and may prompt them to uninstall your application.
+    At first glance, the entire interface appears to be the same on all screens. There are only a few subtle differences when carefully observed. As an example, consider the placement of navigational elements in the header. This is due to differences in the guidelines for both platforms. The elements that must be consistent throughout the interface are styling, placement, font preferences, and design. Moving or changing elements not only confuses your user, but it also disappoints them and may prompt them to uninstall your application.
 
     When aiming for a consistent user interface, you must be aware of the four types of consistency and the factors that influence them.
 
