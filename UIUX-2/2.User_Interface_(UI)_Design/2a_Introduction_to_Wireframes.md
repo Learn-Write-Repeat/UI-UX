@@ -5,7 +5,7 @@
 > So, to put it another way, a wireframe is a low-fidelity, static representation of the various screens and pages that make up a product. Wireframes, according to [Adobe, are "stories about the future."](https://xd.adobe.com/ideas/process/wireframing/wireframe-design-definition/) They serve the same purpose as a blueprint for a building.
 
 - ### **What should be included in a wireframe and what should be excluded?**
-    > Because the purpose of wireframing is to define the layout of different elements of the page as well as the page navigation, wireframes are meant to be simple. As a result, they have limited visual freedom because the majority of design elements such as media, colors, and real text aren't included. The following are some considerations to make when creating a wireframe:
+> Because the purpose of wireframing is to define the layout of different elements of the page as well as the page navigation, wireframes are meant to be simple. As a result, they have limited visual freedom because the majority of design elements such as media, colors, and real text aren't included. The following are some considerations to make when creating a wireframe:
 
     1. Your colours should be kept in grayscale.
     2. Instead of the square and rectangular placeholder, highly stylized graphics and media files should be avoided.
