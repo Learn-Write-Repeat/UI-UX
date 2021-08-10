@@ -1,4 +1,4 @@
-### **Introduction to Wireframes**
+# **Introduction to Wireframes**
 
 > A wireframe is a quick and easy way to spot usability problems early in the design process. It's the skeleton of the page, displaying the 2-D representation of an interface with element spacings, content priority, functionalities, and user interactions, among other things. They also show the flow between pages, which helps to connect information architecture to the visual aspects of design.
 
